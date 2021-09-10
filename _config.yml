@@ -5,7 +5,7 @@ author:      zeruhur
 description: "Yet another NSR blog"
 baseurl:     "aspidochelone"
 url:         "https://zeruhur.space"
-date_format: "%d/%m/%Y"
+date_format: "%b %-d, %Y"
 header_pages:
  - about.md
 # - contact.html
