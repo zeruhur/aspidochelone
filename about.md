@@ -18,8 +18,8 @@ I got interested again in the summer of 2019, first hoarding Risus and Lasers & 
 My favorite RPGs are:
 
 - White Box: Fantastic Medieval Adventures and Swords & Wizardry.
-- Classic Traveller and Cepheus Engine (which I'm translating with some nice people)
-- In general everything that is Old School / R.
+- Classic Traveller and Cepheus Engine (which I translated with some nice people)
+- In general everything that is Old School/R.
 - I also think that if we weren't too picky Risus and its Companion would be more than enough.
 
 I am member #1511 of the International Order of Risus.
