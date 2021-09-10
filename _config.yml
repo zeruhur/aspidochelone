@@ -8,7 +8,9 @@ url:         "https://zeruhur.space"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
-# - contact.html
+ - whatisaspidochelone.md
+ - contact.html
+
 
 google_analytics:
 
