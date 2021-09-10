@@ -6,10 +6,23 @@ title: About
 
 <img class="user-avatar" src="{{ site.owner.avatar }}">
 
-White Paper is a very clean theme and used by users around the globe.
-It aims to be clean and really fast. Jekyll is a pretty neat platform for generating websites and applications. The effort required to setup this blog is minimal but the effect is visible from the day one.
+Roberto, born in 1984, unrepentant geek.
 
-If you are visiting this page, it means you have configured it right and all you need to do now is to start blogging.
+I have been told that my philosophy on RPGs presupposes a very strong social contract and mutual trust. This is absolutely true. I believe that bringing certain attitudes to the table simply goes beyond the purpose of having fun implied by the game.
+
+In my teens I wanted to roleplay, but I didn't have a group and was too shy to seek one out. Later I finally had the chance to join a group and we played a completely random version of D&D 3.5 and at the same time I attended some Vampire LARPs. The first experience ended because the group went into soft air (!), the other because I didn't like the attitude of the LARP players.
+After that, crisis of rejection and things of life (the thesis, the first jobs 12/7, the usual things of average twenties...) kept me out of the loop.
+
+I got interested again in the summer of 2019, first hoarding Risus and Lasers & Feelings and all the hacks available around. Then I bought *The Chronicles of Andor* because it was on sale and I was back into dungeon delving. Then pandemic broke out and the group of friends I was playing Andor with were clearly split and I improvised as a master with *Sword & Six-siders*. I haven't stopped since.
+
+My favorite RPGs are:
+
+- White Box: Fantastic Medieval Adventures and Swords & Wizardry.
+- Classic Traveller and Cepheus Engine (which I'm translating with some nice people)
+- In general everything that is Old School / R.
+- I also think that if we weren't too picky Risus and its Companion would be more than enough.
+
+I am member #1511 of the International Order of Risus.
 
 <div class="pagination">
   {% if site.owner.linkedin %}
