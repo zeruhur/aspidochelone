@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: About
+permalink: /about/
+tags: about
 ---
-## About {{ site.name }}
 
-<img class="user-avatar" src="{{ site.owner.avatar }}">
+## About me
 
 Roberto, born in 1984, unrepentant geek.
 
@@ -23,18 +24,3 @@ My favorite RPGs are:
 - I also think that if we weren't too picky Risus and its Companion would be more than enough.
 
 I am member #1511 of the International Order of Risus.
-
-<div class="pagination">
-  {% if site.owner.linkedin %}
-    <a href="{{ site.owner.linkedin }}" class="social-media-icons"><i class="fa fa-2x fa-linkedin-square" aria-hidden="true"></i></a>
-  {% endif %}
-  {% if site.owner.email %}
-    <a href="mailto:{{ site.owner.email }}" class="social-media-icons"><i class="fa fa-2x fa-envelope-square" aria-hidden="true"></i></a>
-  {% endif %}
-  {% if site.owner.twitter %}
-    <a href="https://twitter.com/{{ site.owner.twitter }}" class="social-media-icons"><i class="fa fa-2x fa-twitter-square" aria-hidden="true"></i></a>
-  {% endif %}
-  {% if site.owner.github %}
-    <a href="{{ site.owner.github }}" class="social-media-icons"><i class="fa fa-2x fa-github-square" aria-hidden="true"></i></a>
-  {% endif %}
-</div>

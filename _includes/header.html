@@ -1,14 +1,11 @@
-<div class="header-container container">
-  <header>
-    <a href="{{ site.url }}" class="top-link">{{ site.name }}</a>
-      <ul class="nav">
-        <!--Change the  URL here if working on an absolute domain-->
-        <li><a href="{{ site.url }}">Home</a></li>
-        <li><a href="{{ site.url }}/about">About</a></li>
-        {% if site.owner.itchio %}
-          <li><a href="{{ site.owner.itchio }}" target="_blank">Projects</a></li>
-        {% endif %}
-        <li><a href="{{ site.url }}/feed.xml">RSS</a></li>
-      </ul>
-  </header>
-</div>
+<header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="{{ "/" | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav">
+        {% include navigation.html %}
+      </nav>
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</header>

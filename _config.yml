@@ -1,36 +1,87 @@
-name: aspidochelone
-description: >
-    aspidochelone - a NSR blog
-about: >
-    
-master_repo: false
-url: "http://zeruhur.github.io/aspidochelone"
-markdown: kramdown
-highlighter: rouge
+# Site settings
+title:       aspidochelone
+email:       
+author:      zeruhur
+description: "Yet another NSR blog"
+baseurl:     "aspidochelone"
+url:         "https://zeruhur.space"
+date_format: "%d/%m/%Y"
+header_pages:
+ - about.md
+# - contact.html
 
-plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+google_analytics:
 
-paginate: 4
+# Optional features
+animated:             true
+show_related_posts:   true
+show_post_footers:    false
+show_social_icons:    true
 
-logo:             logo.png
+# Preview image for social media aka og:image and twitter:image
+post_preview_image: false
+
+# Disqus post comments
 disqus_shortname: https-zeruhur-space-aspidochelone
 
-rtl: false
-owner:
-  name:           zeruhur
-  avatar:         
-  email:          
-  # Social networking links used in footer. Update and remove as you like.
-  twitter: zeruhur
-  github: https://github.com/zeruhur
-  itchio: https://zeruhur.itch.io/
-  stackexchange: 
-  linkedin: 
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+# Social icons
+github_username: zeruhur
+twitter_username: zeruhur
+linkedin_username: 
+dev_username: 
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Post sharing icons
+show_sharing_icons: true
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: true
+share_reddit: true
+share_stumbleupon: false
+share_hackernews: false
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share:'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    googleplus:   'Share on Google+'
+    linkedin:     'Share on LinkedIn'
+    digg:         'Share on Digg'
+    tumblr:       'Share on Tumblr'
+    reddit:       'Share on Reddit'
+    stumbleupon:  'Share on StumbleUpon'
+    hackernews:   'Share on Hacker News'
+  post:
+    updated:        'Updated'
+    minute_read:    'read minutes'
+    related_posts:  'Related posts'
+    post_footer:    'Lorem ipsum'
+  index:
+    coming_soon: 'Coming soon...'
+  og_locale: 'en_US'
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    :title
+paginate:     5
+sass:
+  style: compressed
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - vendor
