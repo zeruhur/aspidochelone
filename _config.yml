@@ -1,14 +1,13 @@
 # Site settings
-title:       aspidochelone
+title:       Zotiquest
 email:       robertobisceglie@gmail.com
 author:      zeruhur
 description: "Yet another NSR blog"
-baseurl:     "aspidochelone"
+baseurl:     "zotiquest"
 url:         "https://zeruhur.space"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - whatisaspidochelone.md
  - contact.html
 
 
@@ -24,7 +23,7 @@ show_social_icons:    true
 post_preview_image: false
 
 # Disqus post comments
-disqus_shortname: https-zeruhur-space-aspidochelone
+disqus_shortname: zotiquest
 
 # Social icons
 github_username: zeruhur
