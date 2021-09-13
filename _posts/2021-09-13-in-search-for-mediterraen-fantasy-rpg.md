@@ -18,9 +18,7 @@ But M&M remains substantially a retro-clone of the OD&D/BX family, mildly modded
 
 Last year I was working on a secondary world of mine, the region of Rhoenia, in my intention a clockpunk sword & sandals. Rhoenia is a sea basin like the Mediterraen, inhabited by the descendants of ancient people magically (?)transported there by "The Glare". Maybe someday I'll return there to complete the setting for a campaign using *The Sword of Cepheus* as planned.
 
-{:refdef: style="text-align: center; width: 250px;"}
 ![Rhoenia, my sword & sandals setting](/zotiquest/assets/img/rhoenia.jpg)
-{:refdef}
 
 But what about an RPG based on Greek Mythology, set in a "mythic version" of real ancient world and more agile than M&M?
 
