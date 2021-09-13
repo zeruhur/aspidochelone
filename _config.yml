@@ -72,7 +72,7 @@ text:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    :title
+permalink: /:categories/:year/:month/:day/:title/
 paginate:     5
 sass:
   style: compressed
