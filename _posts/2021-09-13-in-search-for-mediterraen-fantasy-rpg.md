@@ -10,7 +10,7 @@ I always loved the idea behind [Mazes & Minotaurs](http://mazesandminotaurs.free
 
 {:refdef: style="text-align: center; width: 250px;"}
 ![Mazes & Minotaurs Player's Manual](/zotiquest/assets/img/MM1.jpg)
-{: refdef}
+{:refdef}
 
 M&M starts with an uchronic assumption: what if Gygax and Arneson decided to use Ancient Greek mythology as inspiration instead of fantasy literature to create Dungeons & Dragons? Now the world (of role playing) would be so different! [Someone](http://storygame.free.fr/how.html) build an entire ruleset on this assumption that is fun to read (and to play, I guess) on something different to your “elf & dwarves stuck in a underground dungeon” usual campaign.
 
@@ -20,6 +20,7 @@ Last year I was working on a secondary world of mine, the region of Rhoenia, in 
 
 {:refdef: style="text-align: center; width: 250px;"}
 ![Rhoenia, my sword & sandals setting](/zotiquest/assets/img/rhoenia.jpg)
+{:refdef}
 
 But what about an RPG based on Greek Mythology, set in a "mythic version" of real ancient world and more agile than M&M?
 
@@ -29,7 +30,7 @@ There are a few rulesets based on Classic Mythology, one is a short booklet call
 
 {:refdef: style="text-align: center; width: 250px;"}
 ![Mediterraneo](/zotiquest/assets/img/mediterraneo.jpg)
-{: refdef}
+{:refdef}
 
 My idea is to hack Cairn to make a "Greek Mythology themed" RPG, like [Runecairn](https://byodinsbeardrpg.itch.io/runecairn) made for Norse mythology.
 
