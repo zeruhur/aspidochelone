@@ -6,6 +6,8 @@ comments: true
 categories: thálassa
 ---
 
+![](https://upload.wikimedia.org/wikipedia/commons/a/a6/Boat_Cdm_Paris_322_n2.jpg)
+
 With [*Roamers of the Dream*](https://zeruhur.itch.io/roamers-of-the-dream), my first role-playing game, I wanted to pursue two goals: 1) experiment with the [*GIST!*](https://zeruhur.itch.io/gist) framework; 2) create a setting reminiscent of **Lovecraft's Dreamlands**. 
 
 The first goal was achieved, though I'm not sure with what degree of success: I've only sold 2 copies (PWYW at launch, 4$ now) and received 136 downloads so far. Modest achievement, but satisfying for me, considering that I didn't advertised it even a bit.
