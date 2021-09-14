@@ -3,7 +3,7 @@ title:       Zotiquest
 email:       robertobisceglie@gmail.com
 author:      zeruhur
 description: "Yet another NSR blog"
-baseurl:     "zotiquest"
+baseurl:     "/zotiquest"
 url:         "https://zeruhur.space"
 date_format: "%b %-d, %Y"
 header_pages:
