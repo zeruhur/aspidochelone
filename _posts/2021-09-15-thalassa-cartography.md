@@ -23,14 +23,14 @@ I have a fond memory of my mythology textbook from middle school. It had a good 
 
 I wanted a map that **looked more authentic** with a ancient vibe, something you could tell was drawn *then*. First I remembered [*Hecataeus' world map*](https://en.wikipedia.org/wiki/Early_world_maps#Hecataeus_of_Miletus_(c._550%E2%80%93476_BCE))
 
-{:refdef: style="text-align: center,"}
+{:refdef: style="text-align: center;"}
 ![Anaximander's Map](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Hecataeus_world_map-en.svg/493px-Hecataeus_world_map-en.svg.png)
 {:refdef}
 
 This map is too defined though. It's quite good for its times, it represents the Mediterranean basin quite accurately and becomes a little absurd on the edges.  
 For Thálassa I needed a map even more "abstract" with large unexplored regions, a sketch of world map, rooted in the cosmical concept of a 600 BC mythographer. Then [this Wikipedia article](https://en.wikipedia.org/wiki/Early_world_maps) came in my aid and I found [Anaximander's map](https://en.wikipedia.org/wiki/Anaximander#Cartography):
 
-{:refdef: style="text-align: center,"}
+{:refdef: style="text-align: center;"}
 ![Anaximander's Map](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anaximander_world_map-en.svg/480px-Anaximander_world_map-en.svg.png)
 {:refdef}
 
