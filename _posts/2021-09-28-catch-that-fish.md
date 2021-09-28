@@ -16,31 +16,31 @@ But it's not as if you necessarily have to use this gimmick....
 
 ## Fishiness - Roll 2d6
 
-2-3: dead waters -> don't even try, move on the next pond
-4-5: poor -> DM -2
-6-8: normal -> DM 0
-9-10: abundant -> DM 1
-11-12: rich -> DM 2
+2-3: dead waters -> don't even try, move on the next pond  
+4-5: poor -> DM -2  
+6-8: normal -> DM 0  
+9-10: abundant -> DM 1  
+11-12: rich -> DM 2  
 
 ## Tools - Roll 1d6
 
-1-2: hands -> DM -1
-3-4: fishing net -> DM 0
+1-2: hands -> DM -1  
+3-4: fishing net -> DM 0  
 5-6: fishing rod -> DM +1
 
 ## Bait effectiveness - Roll 1d6
 
-1-2: bad -> DM -2
+1-2: bad -> DM -2  
 3-6: good -> DM 0
 
 ## Fish Size & Strength - Roll 2d6
 
-2-3: Tiny -> TN 7
-4-5: Small -> TN 9
-6-8: Medium -> TN 11
-9-10: Big -> TN 13
+2-3: Tiny -> TN 7  
+4-5: Small -> TN 9  
+6-8: Medium -> TN 11  
+9-10: Big -> TN 13  
 11-12 Huge -> TN 15
 
 ## How to fish
-1. Determine all the factors in dis/advantage rolling on each table.
+1. Determine all the factors in dis/advantage rolling on each table.  
 2. Roll a 3d6 and apply any relevant Dice Modifier (DM). If result is equal or greater than Target Number (TN), you catch the fish.
