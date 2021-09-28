@@ -3,7 +3,7 @@ layout: post
 title: "Catch that fish!"
 date: 2021-09-28 09:10:00
 comments: true
-categories: solorpg
+categories: gizmos
 ---
 
 I have never fished, all the knowledge I have about it comes from movies and a [wikihow guide](https://www.wikihow.com/Fish) I just read.
