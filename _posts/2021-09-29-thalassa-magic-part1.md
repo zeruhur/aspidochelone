@@ -29,7 +29,7 @@ There were, in fact, a world for this form of "magic", *theourgía*:
 
 > a power higher than all human wisdom, embracing the blessings of divination, the purifying powers of initiation, and in a word all operations of divine possession -- (Proclus)
 
-This term however, like "mágos" is a later one, but fortunately, [VanWinkle](https://lichvanwinkle.blogspot.com/) [came to my rescue](https://discourse.rpgcauldron.com/t/thalassa-a-mythic-greek-age-cairn-hack/147/31?u=zeruhur)by directing me to a term more in keeping with the source material: *eukhé*, prayer, wish.
+This term however, like "mágos" is a later one, but fortunately, [VanWinkle](https://lichvanwinkle.blogspot.com/) [came to my rescue](https://discourse.rpgcauldron.com/t/thalassa-a-mythic-greek-age-cairn-hack/147/31?u=zeruhur) by directing me to a term more in keeping with the source material: *eukhé*, prayer, wish.
 
 Eukhé is a direct divine invocation to a deity for ask intervention in a specific domain
 
