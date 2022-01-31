@@ -5,7 +5,7 @@ date: 2022-02-01 00:00:00
 comments: true
 categories: 
 ---
-I'm really excited to announce the release of Thálassa, the adventure game set in the Mythological Age sung by Hesiod and Homer.
+I'm really excited to announce the release of Thálassa, the adventure game set in the Mythical Age sung by Hesiod and Homer.
 
 <iframe frameborder="0" src="https://itch.io/embed/1369445" width="552" height="167"><a href="https://zeruhur.itch.io/thalassa">Thálassa by zeruhur</a></iframe>
 
