@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "Thálassa - Mythical Age Adventure Game"
 date: 2022-02-01 00:00:00
 comments: true
 categories: 
