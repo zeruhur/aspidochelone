@@ -3,7 +3,7 @@ layout: post
 title: "A retrospective on my games so far"
 date: 2022-02-10 10:40:00
 comments: true
-categories: 
+categories: design
 ---
 Some musings about my games so far.
 As an independent amateur author I'm lucky: I write the games I'd like to play without constraints from market or audience logics. In this post I'd like to leave you with a few brief notes on each of them.
