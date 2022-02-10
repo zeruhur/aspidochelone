@@ -1,88 +1,67 @@
-# Site settings
-title:       Zotiquest
-email:       robertobisceglie@gmail.com
-author:      zeruhur
-description: "Yet another NSR blog"
-baseurl:     "/zotiquest"
-url:         "https://zeruhur.space"
-date_format: "%b %-d, %Y"
-header_pages:
- - about.md
- - contact.html
+title:            Zotiquest
+tagline:          Yet another NSR blog
+description:      Zeruhur's RPG blog
+canonical: https://zeruhur.space/zotiquest
 
+# Owner/author information
+owner:
+  name:           Zeruhur
+  avatar:         avatar.png
+  bio:            "Wannabe amateur game designer"
+  email:          zeruhur.games@gmail.com
+  twitter:        zeruhur
+  github:         zeruhur
+  instagram:      zeruhur
+  dribbble:       coletownsend
+  disqus:         zotiquest
+  location:       "Milan, Italy"
+  # Plug in your disqus shortname!
 
-google_analytics:
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
 
-# Optional features
-animated:             true
-show_related_posts:   true
-show_post_footers:    false
-show_social_icons:    true
+# Open Graph customization
+opengraph:
+  locale:           it
 
-# Preview image for social media aka og:image and twitter:image
-post_preview_image: false
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/zeruhur
+    external: true
+  - title: Who?
+    url: https://zeruhur.space
+    external: true
 
-# Disqus post comments
-disqus_shortname: zotiquest
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Rome
+future:      true
+highlighter: pygments
+markdown:    kramdown
 
-# Social icons
-github_username: zeruhur
-twitter_username: zeruhur
-linkedin_username: 
-dev_username: 
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
 
-# Post sharing icons
-show_sharing_icons: true
-# Change to 'true' to enable individual icons
-share_facebook: true
-share_twitter: true
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: true
-share_reddit: true
-share_stumbleupon: false
-share_hackernews: false
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
 
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-  share_buttons:
-    text:         'Share:'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
-  post:
-    updated:        'Updated'
-    minute_read:    'read minutes'
-    related_posts:  'Related posts'
-    post_footer:    'Lorem ipsum'
-  index:
-    coming_soon: 'Coming soon...'
-  og_locale: 'en_US'
-
-# Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink: /:categories/:year/:month/:day/:title/
-paginate:     5
 sass:
-  style: compressed
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+    style: :compressed
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - Rakefile
-  - README.md
-  - vendor
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:year/:month/:day/:title/
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]

@@ -1,8 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+permalink: /about/index.html
+title: About me
+description: 
 tags: about
+image:
+  #feature: soft-trees.jpg
 ---
 
 ## About me

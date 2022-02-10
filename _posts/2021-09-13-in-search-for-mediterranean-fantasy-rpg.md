@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "In search for a Mediterranean fantasy RPG"
-date: 2021-09-13 16:20:00
 comments: true
 categories: design
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Yet Another NSR blog"
-date: 2021-09-10 10:45:00
 comments: true
 categories: intro
 ---

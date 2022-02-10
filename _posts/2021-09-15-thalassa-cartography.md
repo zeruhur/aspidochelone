@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Cartography of Thálassa"
-date: 2021-09-15 09:26:00
 comments: true
 categories: thálassa
 ---

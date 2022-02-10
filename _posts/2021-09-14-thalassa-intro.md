@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Thálassa: a Greek Myths Cairn hack"
-date: 2021-09-14 13:35:00
 comments: true
 categories: thálassa
 ---

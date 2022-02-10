@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "The Magic in Thálassa (part 1): Gods and Prayers"
-date: 2021-09-29 10:00:00
 comments: true
 categories: thalassa
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A retrospective on my games so far"
-date: 2022-02-10 10:40:00
 comments: true
 categories: design
 ---
