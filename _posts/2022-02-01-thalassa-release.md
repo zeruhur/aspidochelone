@@ -3,7 +3,7 @@ layout: post
 title: "Thálassa - Mythical Age Adventure Game"
 date: 2022-02-01 00:00:00
 comments: true
-categories: 
+categories: thalassa
 ---
 I'm really excited to announce the release of Thálassa, the adventure game set in the Mythical Age sung by Hesiod and Homer.
 
