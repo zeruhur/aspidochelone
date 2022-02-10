@@ -1,67 +1,42 @@
-title:            Zotiquest
-tagline:          Yet another NSR blog
-description:      Zeruhur's RPG blog
-canonical: https://zeruhur.space/zotiquest
+# Setup
+title: Zotiquest
+tagline: Yet another NSR blog
+url: https://zotiquest.zeruhur.space
+paginate: 1
+baseurl: ""
+permalink: pretty
 
-# Owner/author information
-owner:
-  name:           Zeruhur
-  avatar:         avatar.png
-  bio:            "Wannabe amateur game designer"
-  email:          zeruhur.games@gmail.com
-  twitter:        zeruhur
-  github:         zeruhur
-  instagram:      zeruhur
-  dribbble:       coletownsend
-  disqus:         zotiquest
-  location:       "Milan, Italy"
-  # Plug in your disqus shortname!
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
-
-# Open Graph customization
-opengraph:
-  locale:           it
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-  - title: Github
-    url: https://github.com/zeruhur
-    external: true
-  - title: Who?
-    url: https://zeruhur.space
-    external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Rome
-future:      true
-highlighter: pygments
-markdown:    kramdown
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
 
 sass:
-    style: :compressed
+  sass_dir: _sass
+  style: :compressed
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
+author:
+  name: Zeruhur
+  url: https://zeruhur.space
+  email: zeruhur.games@gmail.com
+
+# Custom vars
+version: 3.0.0
 permalink:   /:categories/:year/:month/:day/:title/
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
