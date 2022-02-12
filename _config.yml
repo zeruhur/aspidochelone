@@ -1,0 +1,30 @@
+paginate: 10 # how many posts on a page
+remote_theme: EthanMcBloxxer/jekyll-theme-writeas@main
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+
+# Setup
+title: Zotiquest
+subtitle: Yet another NSR blog
+links:
+  about: /about/
+  contact: mailto:zeruhur.games@gmail.com
+  rss: /feed.xml
+credit: true # show a footer "published with jekyll-theme-writeas" (only on posts)
+permalink: /:categories/:year/:month/:day/:title/
+
+## FONTS ##
+serif: true # use a serif font (Lora) instead of sans-serif (Open Sans); "monospace" is also supported
+
+## PAGINATE ##
+paginate_path: "/page/:num/" # page 2 would be served at /page/2/
+older_text: false # text to be displayed for older posts nav
+newer_text: false # text to be displayed for newer posts nav
+
+## COLORS ##
+background: "#f5f5f5" # page background color in HEX
+text: "#111" # text color in HEX
+accent: "#777" # text accent (subtitles, read more, etc) in HEX
+link: "#9f9fff" # link color in HEX
+code: "#586e75" # default code color in HEX
