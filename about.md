@@ -1,6 +1,6 @@
 ---
-layout: page
-#permalink: /about/index.html
+layout: post
+permalink: /about/
 title: About me
 ---
 

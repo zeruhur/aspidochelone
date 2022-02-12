@@ -1,0 +1,5 @@
+---
+layout: rss
+title: RSS Feed Title
+limit: 20 # how many posts to limit the feed to
+---
