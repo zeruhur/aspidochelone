@@ -11,7 +11,7 @@ The idea stuck in my mind, for merrier times. Then other project came, fatherhoo
 
 Until Yochai Gal launched the *Forest of Another Name" Cairn Jam last month. The original deadline was March 31st and I know it was totally impossible for me to meet that deadline. Then it has postponed to April 15th and I was able to start writing my submission in time.
 
-The result is Taintedweald, a mini-setting in a 24 pages zine. Let's in detail!
+The result is Taintedweald, a mini-setting in a 24 pages zine. Let's see it in detail!
 
 - The **title** is a portmanteau because they sounds good and Dolmenwood was already taken (and there will be not such a good title as that). I had to figure out something that not sounds awful and recalled the [Sea of Corruption](https://nausicaa.fandom.com/wiki/Sea_of_Corruption). At first I was thinking to use "Toxic Jungle" (the original Italian translation for the Sea in the 80's adaption of the anime), but it was not that evocative. I am satisfied with Taintedweald.
 - The **general concept** takes off the world of Nausicaä, but it is only a loosely inspiration. There is the post-apocalyptic feel to it, there is the poisonous forest and a general feel in the names and technology, of course. That's it, everything else is vague enough to allow a total conversion if someone wants to, but something completely different either. The [Nausicaä Fandom Wiki](https://nausicaa.fandom.com/) was a unrivaled source of material and inspiration to make this setting.
