@@ -31,4 +31,4 @@ plugins:
 permalink: /:categories/:year/:month/:day/:title/
 paginate: 10 # how many posts on a page
 
-disqus: adasperaludens
+disqus: zotiquest
