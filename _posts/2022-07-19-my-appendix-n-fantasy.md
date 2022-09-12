@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Appendix N - Part I: Fantasy Essentials"
-date: 2022-07-19 09:30:00
+date: 2022-09-12 09:30:00
 comments: true
 categories: inspirations
 ---
@@ -17,12 +17,13 @@ This post will be divided into at least two parts, fantasy and science fiction. 
 ## Fiction
 
 - Anderson, Poul. The Broken Sword.
-- Bradley, Marion Zimmer. Darkover Series. (*I read this before harassment allegations were public. I don't endorse Bradley's works anymore*)
+- Bradley, Marion Zimmer. Darkover Series. (*I read this before abuse allegations were public. I don't endorse Bradley's works anymore*)
 - Burroughs, Edgar Rice. John Carter of Mars.
 - China, Miéville. Bas Lag Trilogy.
 - Ende, Michael. The Endless Story.
 - Hobb, Robin. Liveship Traders Trilogy.
 - Howard, Robert E. Conan The Barbarian.
+- Howard, Robert E. Kull of Valusia.
 - Kerr, Katharine. Deverry Cycle.
 - Le Guin, Ursula K. Annals of the Western Shore.
 - Le Guin, Ursula K. The Earthsea Cycle.
