@@ -3,7 +3,7 @@ layout: post
 title: "Plerion v.1.0.0 is available!"
 date: 2022-11-25 09:30:00
 comments: true
-categories: Plerion
+categories: plerion
 ---
 
 I'm happy, excited and exhausted, but I've finally done it: Plerion is online!
